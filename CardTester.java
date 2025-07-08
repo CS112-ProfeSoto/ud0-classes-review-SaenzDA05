@@ -10,7 +10,7 @@
  * NOTE: order of tests is purposeful, organized by suggested
  * implementation order of methods (ex: toString first, then setValue, etc.)
  * and later tests assume previous tests work (ex: equals needs getters to work).
- * See Algorithm below for details.
+ * See Algorithm below for details..
  *
  * @author Nery Chapeton-Lamas <nery@miracosta.edu>
  * @version 1.0
